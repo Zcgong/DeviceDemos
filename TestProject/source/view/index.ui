@@ -1,0 +1,31 @@
+{
+	"RootView":{
+		"bgColor":"FFFFFFFF",
+		"width":"750",
+		"id":"ALayout_1",
+		"type":"do_ALayout",
+		"views":[
+			{
+				"bgColor":"80808080",
+				"x":"186",
+				"width":"365",
+				"y":"364",
+				"id":"btn_hello",
+				"text":"Say Hello",
+				"type":"do_Button",
+				"height":"55"
+			},
+			{
+				"bgColor":"00FFFFFF",
+				"x":"188",
+				"width":"365",
+				"y":"430",
+				"fontSize":"20",
+				"id":"do_Button_1",
+				"text":"touch me!!!",
+				"type":"do_Button"
+			}
+		],
+		"height":"1334"
+	}
+}
